@@ -21,7 +21,7 @@ class OpenMeteoService {
     final latitude = geoData['results'][0]['latitude'];
     final longitude = geoData['results'][0]['longitude'];
 
-    // ⚙️ 2. Buscar previsão do tempo com base nas coordenadas
+    //  2. Buscar previsão do tempo com base nas coordenadas
     final weatherUrl = Uri.parse(
       'https://api.open-meteo.com/v1/forecast?latitude=$latitude&longitude=$longitude&current_weather=true',
     );
@@ -34,7 +34,7 @@ class OpenMeteoService {
     final weatherData = json.decode(weatherResponse.body);
     final current = weatherData['current_weather'];
 
-    // ⚙️ 3. Retornar os dados principais em formato de mapa
+    //  3. Retornar os dados principais em formato de mapa
     return {
       'temperatura': current['temperature'],
       'vento': current['windspeed'],
