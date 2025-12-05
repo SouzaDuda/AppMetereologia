@@ -136,13 +136,17 @@ class _HomePageState extends State<HomePage> {
                       ),
                     ),
                     onPressed: () {
+                      final cidade = _cidadeController.text.trim();
+                      if (cidade.isEmpty) return;
+
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (_) => const Previsaosemanal(),
+                          builder: (_) => Previsaosemanal(cidade: cidade),
                         ),
                       );
                     },
+
                     child: const Text("Ver previsão completa da semana"),
                   ),
                   const SizedBox(height: 15),
