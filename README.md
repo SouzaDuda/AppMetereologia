@@ -10,7 +10,7 @@
 <h4>Links da wiki</h4>
 
 <p>Home: https://github.com/SouzaDuda/AppMetereologia/wiki</p>
-<p>Página Inicial: https://github.com/SouzaDuda/AppMetereologia/wiki/Pagina-Inicial</p>
+<p>Página Inicial: https://github.com/SouzaDuda/AppMetereologia/wiki/1.1.-P%C3%A1gina-Inicial</p>
 <p>Previsão Semanal: https://github.com/SouzaDuda/AppMetereologia/wiki/Previs%C3%A3o-Semanal</p>
 <p>Página de Créditos: https://github.com/SouzaDuda/AppMetereologia/wiki/Ps%C3%A1gina-de-Cr%C3%A9ditos</p>
 <p>Widgets Utilizados: https://github.com/SouzaDuda/AppMetereologia/wiki/Widgets-Utilizados</p>
