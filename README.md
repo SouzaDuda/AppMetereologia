@@ -11,8 +11,8 @@
 
 <p>Home: https://github.com/SouzaDuda/AppMetereologia/wiki</p>
 <p>Página Inicial: https://github.com/SouzaDuda/AppMetereologia/wiki/1.1.-P%C3%A1gina-Inicial</p>
-<p>Previsão Semanal: https://github.com/SouzaDuda/AppMetereologia/wiki/Previs%C3%A3o-Semanal</p>
-<p>Página de Créditos: https://github.com/SouzaDuda/AppMetereologia/wiki/Ps%C3%A1gina-de-Cr%C3%A9ditos</p>
-<p>Widgets Utilizados: https://github.com/SouzaDuda/AppMetereologia/wiki/Widgets-Utilizados</p>
-<p>API Utilizada: https://github.com/SouzaDuda/AppMetereologia/wiki/Y-API-Utilizada</p>
-<p>Dicionário de Dados: https://github.com/SouzaDuda/AppMetereologia/wiki/Z-Dicion%C3%A1rio-de-Dados</p>
+<p>Previsão Semanal:https://github.com/SouzaDuda/AppMetereologia/wiki/1.2.-Previs%C3%A3o-Semanal</p>
+<p>Página de Créditos: https://github.com/SouzaDuda/AppMetereologia/wiki/1.3.-P%C3%A1gina-de-Cr%C3%A9ditos</p>
+<p>Widgets Utilizados: https://github.com/SouzaDuda/AppMetereologia/wiki/2.-Widgets-Utilizados</p>
+<p>API Utilizada: https://github.com/SouzaDuda/AppMetereologia/wiki/3.-API-Utilizada</p>
+<p>Dicionário de Dados: https://github.com/SouzaDuda/AppMetereologia/wiki/4.-Dicion%C3%A1rio-de-Dados</p>
