@@ -1,7 +1,7 @@
 # AppMetereologia
 
 
-<p>Este repositório é dedicado para o projeto do 4ºBim sobre um aplicativo de metereologia utilizando API.</p>
+<p>Este repositório é dedicado para o projeto do 4ºBim do Técnico de Programação de Jogos Digitais da ETEC Basilides de Godoy sobre um aplicativo de metereologia utilizando API.</p>
 <h4></h4>Integrantes: Maria Eduarda da Silva Souza e Sabrina Caetano Nascimento</h4><br>
 
 <br>
